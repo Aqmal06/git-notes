@@ -1,5 +1,5 @@
 # git-notes
-cd ../.. (reverting to default)/
+cd ../.. (reverting to default) /
 cd 'file' (new file)/
 cd ../'file' (replace file)/
 Get-ChildItem -Force/
